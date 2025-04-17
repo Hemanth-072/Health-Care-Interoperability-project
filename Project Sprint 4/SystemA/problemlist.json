@@ -1,0 +1,52 @@
+{
+    "head": {"title": "Problem List Information"},
+    "body": {
+        "h1": "Problem List Details",
+        "table": {
+            "border": 1,
+            "width": "100%",
+            "thead": {
+                "tr": {
+                    "bgcolor": "#9acd32",
+                    "th": [
+                        "Name",
+                        "Date",
+                        "Status"
+                    ]
+                }
+            },
+            "tbody": {
+                "tr": [
+                    {
+                        "td": [
+                            "Rib-Cage Defect",
+                            "Onset: 04/02/2024",
+                            "Active"
+                        ]
+                    },
+                    {
+                        "td": [
+                            "Long-fingers",
+                            "Onset: 04/02/2024",
+                            "Active"
+                        ]
+                    },
+                    {
+                        "td": [
+                            "Flat feet",
+                            "Onset: 04/02/2024",
+                            "Active"
+                        ]
+                    },
+                    {
+                        "td": [
+                            "Double jointedness",
+                            "Onset: 04/02/2024",
+                            "Active"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
