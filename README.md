@@ -77,7 +77,7 @@ We cover four sprints:
 
 ---
 
-## 📑 Sprint 3: CDA Implementation  
+## 📑 Project Sprint 3: CDA Implementation  
 
 - We authored a **C‑CDA** (Continuity of Care Document) instance containing all use‑case data (patient demographics, encounters, problems, procedures, results, consultation notes).  
 - **Files:**  
@@ -86,7 +86,7 @@ We cover four sprints:
 
 ---
 
-## 🔄 Sprint 4: XSLT‑Driven Interoperability  
+## 🔄 Project Sprint 4: XSLT‑Driven Interoperability  
 
 **Goal:** Transform the CDA into the payloads each system needs.  
 
